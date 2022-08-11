@@ -10,8 +10,8 @@ MSSQL_SA_PASSWORD='Agu4caT322022'
 # Defaults to developer
 MSSQL_PID='developer'
 
-# Install SQL Server Agent (recommended)
-SQL_INSTALL_AGENT='y'
+# Install SQL Server Agent (recommended) ya viene empaquetado en el paquete mssql-server
+#SQL_INSTALL_AGENT='n'
 
 # Install SQL Server Full Text Search (optional)
 # SQL_INSTALL_FULLTEXT='y'
